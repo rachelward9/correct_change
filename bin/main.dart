@@ -72,3 +72,5 @@ void calculateRemainingTotal () {
 void errorMessage() {
   print("You still owe $moneyOwed, dude.");
 }
+
+//This comment is to test GitHub with syncing.
